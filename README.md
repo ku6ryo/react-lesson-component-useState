@@ -1,5 +1,5 @@
 # Overview  / 概要
-コンポーネントの中で state を変更する方法の練習問題です。src/App.js の中で useState を使って簿ボタンが押されたときに text の値を "hello" から "world" に変更してページ内の表示も変更しています。
+コンポーネントの中で state を変更する方法の練習問題です。すでにあるコードでは src/App.js の中で useState を使ってボタンが押されたときに text の値を "hello" から "world" に変更してページ内の表示も変更しています。
 
 # How to start React app. / React アプリの動かし方
 Run following commands. You'll see content if you access localhost:3000 with your browser.
