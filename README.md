@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-# 問題
+# Problem / 問題
 1. すでにあるボタンがクリックされたときに、"world" ではなく、"react" と表示されるように変更してください。
 2. もう一つボタンと状態 count を追加して、そのボタンがクリックされたときに count が 1 ずつ増えるようにしてください。
 3. count が 10 かつ text が "react" のときに、"react" のあとに "is super" が表示されるようにしてください。
